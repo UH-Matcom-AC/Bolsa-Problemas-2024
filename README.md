@@ -1,6 +1,10 @@
-# Bolsa-Problemas-Colectivo
+# Bolsa-Problemas-2024
 
-Bolsa de Problemas de AC. Este repo es solo para uso del Colectivo. Su objetivo en conformar los problemas de la Tarea Evaluativa del curso 2024 de AC. Puede servir para cursos posteriores. Para disponerlo a los estudiantes, resultaría conveniente crear otro repo solo con lo necesario, ya que este repositorio, podría contener las respuestas, códigos de generación de casos de pruebas, y otra información extra.
+Primer Proyecto de Arquitectura de Computadoras.
+
+*Facultad de Matemática y Computación  
+Universidad de La Habana  
+Curso 2024*
 
 ## Consideraciones Generales
 
@@ -70,7 +74,6 @@ El código de la implementación se debe desarrollar en la sección `.text`. Par
 
 ## Lista de Problemas
 
-000. [Problema 0 (Nombre)](./problemas/problema_000.md)
 001. [Problema 1 (N Perfectos)](./problemas/problema_001.md)
 002. [Problema 2 (N Primos)](./problemas/problema_002.md)
 003. [Problema 3 (I-ésimo Primo)](./problemas/problema_003.md)

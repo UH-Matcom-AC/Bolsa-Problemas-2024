@@ -4,11 +4,7 @@
 
 Dada una lista $L$ de $n$ elementos $a_1, a_2, \ldots, a_n$ y un número $x$, la suma de todos los números en $L$ que sean mayores que $x$ se denota como:
 
-$
-%\begin{equation}
-\sum_{a_i \in L, a_i > x} a_i
-%\end{equation}
-$
+$\sum_{a_i \in L, a_i > x} a_i$
 
 Sea una lista no ordenada $L$ de $n$ elementos $a_1,a_2,...,a_n$ y un número $x$, devolver la suma de todos los números en $L$ que sean mayores que $x$.
 

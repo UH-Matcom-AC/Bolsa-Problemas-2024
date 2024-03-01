@@ -1,4 +1,4 @@
-# Suma de n mayores que x (Problema 28)
+# Suma de n mayores que x (Problema 45)
 
 ## Descripción
 

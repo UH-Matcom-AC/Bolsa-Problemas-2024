@@ -15,12 +15,12 @@ Debe imprimir $B$. Para ello cada fila debe ir separada por saltos de línea, y 
 Por ejemplo: si $B= \begin{bmatrix}
 0 & 1 \\
 2 & 3 
-\end{bmatrix}$ y $k = 2$
+\end{bmatrix}$
 
 Debería imprimir:
 
-> 0 2  
-> 4 6
+> 0 1  
+> 2 3
 
 ## Logisim
 

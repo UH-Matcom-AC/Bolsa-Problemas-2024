@@ -24,8 +24,8 @@ $$
 
 Debería imprimir:
 
-> 0 2  
-> 4 6
+> 0 1
+> 2 3
 
 ## Logisim
 

@@ -12,10 +12,17 @@ Dada dos matrice $A_1$ y $A_2$ de dimensiones $(n,m)$, halle $B = A_1 + A_2 $.
 
 Debe imprimir $B$. Para ello cada fila debe ir separada por saltos de línea, y cada elemento separado por comas.
 
-Por ejemplo: si $B= \begin{bmatrix}
+Por ejemplo: si
+
+$$
+B =
+\begin{bmatrix}
 0 & 1 \\
-2 & 3 
-\end{bmatrix}$ y $k = 2$
+2 & 3
+\end{bmatrix}
+$$
+
+y $k = 2$
 
 Debería imprimir:
 

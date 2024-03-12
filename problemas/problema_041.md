@@ -22,8 +22,6 @@ B =
 \end{bmatrix}
 $$
 
-y $k = 2$
-
 Debería imprimir:
 
 > 0 2  

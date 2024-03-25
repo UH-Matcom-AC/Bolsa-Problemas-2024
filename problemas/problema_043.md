@@ -28,7 +28,8 @@ Se dispondrá en *INPUT* los datos de entrada a partir de la dirección $0$. La 
 
 - $w_0$ : $n$
 - $w_1$ : $m$
-- $w_{2:n*m+1}$ : $A$
+- $w_2$ : $k$
+- $w_{3:n*m+2}$ : $A$
 
 ## SASM
 
